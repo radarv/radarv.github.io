@@ -1,0 +1,91 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     
+     color: #484848;
+     width: 800px;
+     height: 100%;
+     font-family:Georgia,sans-serif;
+     background: url("img/office_background.jpg") no-repeat center center fixed;
+     background-size: cover;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     text-align: center;
+     padding-top: 0%;
+     padding-left: 25%;
+     padding-right: 25%;
+     padding-bottom: 25%;
+     margin: 0;
+}
+  header {
+      font-family:Georgia,sans-serif;  
+      background-image: ;
+      padding: 30px;
+      font-size: 18pt;
+      line-height: 20px;
+      font-style: normal;
+      display: block;
+    }
+h1 {
+    font-size: 30pt;
+}
+h2 {
+    font-size: 18pt;
+}
+nav {
+    float: left;
+    width: 800px;
+    display: block;
+    background-color: #40bf7d;
+    padding: none;
+}
+nav ul {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: ;
+    float: left;
+    border-bottom: ;
+    list-style-type: none;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    height: 15px;
+    padding: 12px 18px 8px 18px;
+    vertical-align: middle;
+  }
+  a {
+      color: ;
+  }
+  section {
+      width: 100%;
+      display: inline-block;
+      float: left;
+      padding-top: 20px
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }

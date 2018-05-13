@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}   
+body {
+    width: 800px;
+    height: 100%;
+    background-color: antiquewhite;
+}
+
+header {
+background-color: yellowgreen; 
+padding-bottom: 0px;
+padding-top: 0px;
+}
+
+.background {
+    position: absolute;
+    top: 25%;
+}
+
+.list-intro {
+    background-color: aquamarine;
+}
+
+.list {
+    background-color: tomato;   
+}
+
+.last-line {
+    background-color: beige;
+}
+
+article {
+}
+
+nav {
+    background-color: #FFAEEB;
+    
+    
+}
